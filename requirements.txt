@@ -1,4 +1,4 @@
-tkinter==2.4.6
+tk==0.1.0
 librosa==0.7.2
 matplotlib==3.1.1
 numpy==1.19.5
